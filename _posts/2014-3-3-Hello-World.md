@@ -7,7 +7,7 @@ Hello
 
 插入 C# 程式碼
 
-```cs
+``cs
 //Gripper.cs
 using System.Collections;
 using System.Collections.Generic;
@@ -75,4 +75,4 @@ public class Gripper : MonoBehaviour
 	}
 }
 
-```
+``
