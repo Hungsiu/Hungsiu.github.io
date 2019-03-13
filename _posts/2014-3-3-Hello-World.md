@@ -5,7 +5,8 @@ title: Hello GitHub!
 
 Hello
 
-C#
+插入 C# 程式碼
+
 ```cs
 Console.WriteLine("Hello world");
 ```
