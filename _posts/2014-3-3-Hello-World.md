@@ -6,11 +6,11 @@ title: Hello GitHub!
 Hello
 
 
-# 一個「#」
+# 一個「#」的標題
 
-## 兩個「#」
+## 兩個「#」的標題
 
-### 三個「#」
+### 三個「#」的標題
 
 
 前面加上「* 」是清單
@@ -33,8 +33,35 @@ Hello
 
 
 插入 C# 程式碼
+
+* C#
+
 ```cs
 
 Console.WriteLine("Hello GitHub~");
+
+```
+
+* C++
+
+```cpp
+
+cout << "Hello GitHub~" ;
+
+```
+
+* C
+
+```c
+
+printf("Hello GitHub~\n");
+
+```
+
+* Python
+
+```py
+
+print "Hello GitHub~"
 
 ```
