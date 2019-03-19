@@ -32,6 +32,10 @@ Hello
 回到我的[GitHub](HungHsiuWang.github.io)
 
 
+>前面一個「>」是縮排一個Tab
+>>前面兩個「>」是縮排兩個Tab
+
+
 插入 C# 程式碼
 
 * C#
