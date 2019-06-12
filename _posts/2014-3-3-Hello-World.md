@@ -29,7 +29,7 @@ Hello
 超連結的語法是：用「[]」將文字包著，然後在後面加上「()」，並在括號內輸入網址
 圖片插入方式是超連結的語法，並在「[]」前面加上「!」
 
-回到我的[GitHub](HungHsiuWang.github.io)
+回到我的[GitHub](https://hunghsiuwang.github.io/)
 
 
 >前面一個「>」是縮排一個Tab
