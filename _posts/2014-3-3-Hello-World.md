@@ -40,11 +40,11 @@ Hello
 
 * C#
 
-``cs
+```cs
 
 Console.WriteLine("Hello GitHub~");
 
-``
+```
 
 * C++
 
