@@ -40,17 +40,17 @@ Hello
 
 * C#
 
-```cs
+``cs
 
 Console.WriteLine("Hello GitHub~");
 
-```
+``
 
 * C++
 
 ```cpp
 
-cout << "Hello GitHub~" ;
+cout << "Hello GitHub~" << endl ;
 
 ```
 
