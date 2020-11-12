@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wt RobotSim
+title: Hello GitHub!
 ---
 
 第一次使用GitHub
