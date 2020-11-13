@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I come from Taiwan
+
+I am a system integration engineer for KUKA Robot
+
+The commonly used language is C#
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[hubery.wang.tw@gmail.com](mailto:email@domain.com)
+Email：[hx.wang.tw@gmail.com](mailto:hx.wang.tw@gmail.com)
