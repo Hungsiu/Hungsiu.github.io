@@ -5,6 +5,7 @@ title: Hello GitHub!
 
 第一次使用GitHub
 
+.
 
 # 這是一個「#」的標題
 
@@ -44,7 +45,7 @@ title: Hello GitHub!
 
 .
 
-插入 C# 程式碼
+插入程式碼
 
 * C#
 
