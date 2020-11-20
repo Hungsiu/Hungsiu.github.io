@@ -3,7 +3,7 @@ layout: post
 title: Hello GitHub!
 ---
 
-第一次使用GitHub x Maarkdown
+第一次使用GitHub x Markdown
 
 .
 
