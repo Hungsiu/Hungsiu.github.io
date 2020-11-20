@@ -41,24 +41,48 @@ title: Hello GitHub!
 * C#
 
 ```cs
+using System;
 
-Console.WriteLine("Hello GitHub~");
+namespace ConsoleApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello GitHub");
+        }
+    }
+}
+
 
 ```
 
 * C++
 
 ```cpp
+#include<iostream>
+using namespace std;
 
-cout << "Hello GitHub~" << endl ;
+int main()
+{
+    cout << "Hello GitHub~" << endl ;
+
+    return 0;
+}
 
 ```
 
 * C
 
 ```c
+#include<stdio.h>
 
-printf("Hello GitHub~\n");
+int main()
+{
+    printf("Hello GitHub~\n");
+
+    return 0;
+}
 
 ```
 
