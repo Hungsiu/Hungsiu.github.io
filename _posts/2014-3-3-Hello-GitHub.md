@@ -45,7 +45,17 @@ title: Hello GitHub!
 
 .
 
-插入程式碼
+# Git指令
+
+* 列出各種git指令
+
+>➜ git --help
+
+
+
+.
+
+# 插入程式碼
 
 * C#
 
