@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wt RobotSim
+title: Wt Robot Training
 ---
 
 https://hunghsiuwang.github.io/WtRobotTraining/
