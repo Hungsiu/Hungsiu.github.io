@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wt Robot Training
+title: 卓智機器人 KUKA教育訓練文件
 ---
 
 https://hunghsiuwang.github.io/WtRobotTraining/
