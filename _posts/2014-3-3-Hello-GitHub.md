@@ -39,7 +39,7 @@ title: Hello GitHub!
 超連結是：用「[ ]」將文字包著，然後在後面加上「( )」，並在括號內輸入網址
 圖片插入方式是超連結的語法，並在「[ ]」前面加上「!」
 
-回到我的[GitHub](https://hunghsiuwang.github.io/)
+回到我的[GitHub](https://hungsiu.github.io/)
 
 .
 
@@ -53,10 +53,17 @@ title: Hello GitHub!
 
 * 列出各種git指令
 
->➜ git --help
+>➜ git --help：顯示Git指令說明
 
+>➜ git log：檢視git的版本管理內容
 
+>➜ git init：git初始化，並將當前路徑納入版本管理
 
+>➜ git status：顯示目前版本管理的狀態
+
+>➜ git add filename.type：將檔案加入到變更項目，等待Commit
+
+>➜ git commit -m Description：建立Commit，更新版本
 .
 
 # 插入程式碼
