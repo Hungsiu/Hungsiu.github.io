@@ -117,3 +117,17 @@ print "Hello GitHub~"
 ?>
 
 ```
+
+# 建立新頁面方式
+
+以新增一個名為「NewWebsite」的Repository為例
+
+    1.在_posts資料夾內複製一個任意一個.md檔，並將檔名修改為2022-08-18-NewWebsite.md
+    2.在2022-08-18-NewWebsite.md中可以更改title、新增預覽說明等
+    3.在GitHub新增repository，Repository Name是NewWebsite
+    4.點進Repository後，找到Settings > Pages > Theme Chooses
+    5.按下Change theme按鈕，選擇一個喜歡的主題
+    6.按下Selet theme按鈕更換為新的主題
+    7.到個人頁面首頁查看是否新增成功
+
+阿要注意自己的帳號名稱蛤，不要改了帳號名稱自己又忘了
