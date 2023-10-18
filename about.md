@@ -7,4 +7,4 @@ permalink: /about/
 
 ### More Information
 
-Email：[hx.wang.tw@gmail.com](mailto:hx.wang.tw@gmail.com)
+Email：[hubery.wang.tw@gmail.com](mailto:hubery.wang.tw@gmail.com)
