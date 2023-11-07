@@ -73,6 +73,17 @@ title: Hello GitHub!
 >➜ git add filename.type：將檔案加入到變更項目，等待Commit
 
 >➜ git commit -m Description：建立Commit，更新版本
+
+>➜ git branch "branchName"：建立新分支(branchName為分支名稱)
+
+>➜ git checkout "branchName"：切換分支(branchName為分支名稱)
+
+>➜ git branch -d "branchName"：刪除分支(branchName為分支名稱)
+
+>➜ git branch -D "branchName"：強制刪除分支(branchName為分支名稱)
+
+>➜ git merge "branchName"：合併到當前分支(branchName為分支名稱)
+
 .
 
 # 插入程式碼
