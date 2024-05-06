@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Excel VBA 筆記
+title: SQLite 筆記
 ---
 
-統整之前工作時研究的Excel VBA
+整理一些比較常用的SQL語法
 
-https://hungsiu.github.io/ExcelVBAnote/
+如果要用SQLite時比較方便找
+
+https://hungsiu.github.io/SQLiteSyntaxNote/
