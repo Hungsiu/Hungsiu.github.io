@@ -88,6 +88,12 @@ title: Hello GitHub!
 
 >➜ git merge "branchName"：合併到當前分支(branchName為分支名稱)
 
+>➜ git reset --hard 版本ID：將專案還原至該版本，並刪除其後所有變更紀錄
+
+>➜ git remote add origin 存放庫網址：將本地的git連結到GitHub存放庫
+
+>➜ git push -u origin main：把本地的main分支推送到GitHub的origin分支
+
 .
 
 # 插入程式碼
