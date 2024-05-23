@@ -64,15 +64,19 @@ title: Hello GitHub!
 
 >➜ git --help：顯示Git指令說明
 
->➜ git log：檢視git的版本管理內容
+>➜ git log：檢視git的版本管理完整內容
+
+>➜ git log --oneline：檢視git的版本管理部分內容
 
 >➜ git init：git初始化，並將當前路徑納入版本管理
 
 >➜ git status：顯示目前版本管理的狀態
 
->➜ git add filename.type：將檔案加入到變更項目，等待Commit
+>➜ git add 檔案名稱.副檔名：將檔案加入到變更項目，等待Commit
 
 >➜ git commit -m Description：建立Commit，更新版本
+
+>➜ git diff 版本控制ID -- 檔案名稱.副檔名：比較該ID版本中檔案與當前版本的差異
 
 >➜ git branch "branchName"：建立新分支(branchName為分支名稱)
 
